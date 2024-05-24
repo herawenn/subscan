@@ -29,7 +29,7 @@ def clear_console():
     os.system('cls' if os.name == 'nt' else 'clear')
 
 # Your Shodan API key
-SHODAN_API_KEY = 'shodan_api_key_here'
+SHODAN_API_KEY = '' # Shodan API key goes here
 
 # Semaphore for limiting concurrent network requests
 semaphore = asyncio.Semaphore(10)
