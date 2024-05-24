@@ -1,0 +1,15 @@
+os
+nmap
+json
+shodan
+asyncio
+aiohttp
+tldextract
+backoff
+random
+socket
+whois
+requests
+dns.resolver
+colorama
+bs4
